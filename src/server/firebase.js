@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "", // Add API Key
-  databaseURL:"" // Add databaseURL
+  apiKey: "AIzaSyCzZwJWVc0MWRdGL2PYyYctXAP8RNjNLXM" ,
+  databaseURL: "https://gmeet-c0569-default-rtdb.firebaseio.com/"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
